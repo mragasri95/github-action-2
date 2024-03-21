@@ -1,4 +1,4 @@
-CI > name: Code Coverage Report
+name: Code Coverage Report
 'on':
   workflow_dispatch: null
   push:
